@@ -1,15 +1,21 @@
 # Description
 
-Please provide a clear and concise description of the changes in this pull request. Explain the what and the why. What problem does this solve? What new functionality does it add?
+Please provide a clear and concise description of the changes in this pull request.
+
+Explain the what and the why. What problem does this solve? What new functionality does it add?
+
+---
 
 ## Related Issues
 
-Please link to any relevant issues or tickets here.
+Please link to any relevant jira tickets here.
 
 - Closes #
 - References #
 
-## Type of change
+---
+
+## Type of Change
 
 Please check the type of change that this PR introduces.
 
@@ -19,13 +25,23 @@ Please check the type of change that this PR introduces.
 - [ ] Refactoring (code changes that do not change functionality)
 - [ ] Documentation update
 
+---
+
 ## How Has This Been Tested?
 
-Please describe the tests that you ran to verify your changes. Provide instructions so the reviewer can reproduce the tests.
+Please describe the tests that you ran to verify your changes.  
+Provide instructions so the reviewer can reproduce the tests.
 
-- Steps to reproduce:
-- Expected result:
-- Actual result:
+**Steps to reproduce:**
+
+1.
+2.
+
+**Expected result:**
+
+**Actual result:**
+
+---
 
 ## Checklist
 
